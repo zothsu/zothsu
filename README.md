@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 [![Linkedin: #](https://img.shields.io/badge/-zothsu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zothsu/)](https://www.linkedin.com/in/zoetsullivan/)
 [![GitHub zothsu](https://img.shields.io/github/followers/zothsu?label=follow&style=social)](https://github.com/zothsu)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zothsu&show_icons=true&theme=radical)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
