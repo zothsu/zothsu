@@ -18,20 +18,20 @@
 - 💬 Ask me about ... How to keep your kitchen knives sharp
 
   
-<hr>
+---
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const zoe = {
   pronouns: "she" | "they",
-  code: [HTML, CSS, BASH, ],
+  code: [HTML, CSS, JavaScript, Typescript ],
   tools: [Bash, Node, Docker],
   techCommunities: {
                         member: "theMyceliumNetwork",
                         futureMentor: "PDXWIT"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+                      }
 }
 ```
+
 ---
