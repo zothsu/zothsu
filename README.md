@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <h2> Hi there, I'm Zoe Sullivan!</h2>
-<img float='right' src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif'>
+<img align='right' src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif'>
 </p>
 
 <p><em>Freelance Web Developer</em></p>
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const zoe = {
   pronouns: "she" | "they",
   code: [HTML, CSS, BASH, ],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
