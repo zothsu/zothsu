@@ -16,14 +16,11 @@ Here are some ideas to get you started:
 
 
 <h2> Hi there, I'm Zoe Sullivan!</h2>
-<iframe align='right' src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="230"></iframe>
+
+<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
+
 <p><em>Freelance Web Developer</em></p>
 
-
-
-<p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">
-  
-</a></p>
 
 [![Linkedin: #](https://img.shields.io/badge/-zothsu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zothsu/)](https://www.linkedin.com/in/zoetsullivan/)
 [![GitHub zothsu](https://img.shields.io/github/followers/zothsu?label=follow&style=social)](https://github.com/zothsu)
