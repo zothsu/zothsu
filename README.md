@@ -17,10 +17,16 @@ Here are some ideas to get you started:
 
 
 <h2> Hi, I'm Zoe Sullivan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<iframe align='right' src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="230"frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <p><em>Freelance Web Developer</em></p>
 
-[![Linkedin: #](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zothsu/)](https://www.linkedin.com/in/zoetsullivan/)
+
+
+<p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">
+  
+</a></p>
+
+[![Linkedin: #](https://img.shields.io/badge/-zothsu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zothsu/)](https://www.linkedin.com/in/zoetsullivan/)
 [![GitHub zothsu](https://img.shields.io/github/followers/zothsu?label=follow&style=social)](https://github.com/zothsu)
 
 
