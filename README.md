@@ -1,20 +1,5 @@
 
-<!--
-**zothsu/zothsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+<!-- **zothsu/zothsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <h2> Hi there, I'm Zoe Sullivan!</h2>
 <img align='right' src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif'>
 </p>
@@ -25,6 +10,14 @@ Here are some ideas to get you started:
 [![Linkedin: #](https://img.shields.io/badge/-zothsu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zothsu/)](https://www.linkedin.com/in/zoetsullivan/)
 [![GitHub zothsu](https://img.shields.io/github/followers/zothsu?label=follow&style=social)](https://github.com/zothsu)
 
+
+- 🔭 I’m currently working on ... nextgenerationdoulas.org
+- 🌱 I’m currently learning ... React
+- 👯 I’m looking to collaborate on ... 
+- 🤔 I’m looking for help with ... Project Management
+- 💬 Ask me about ... How to keep your kitchen knives sharp
+
+  
 <hr>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
