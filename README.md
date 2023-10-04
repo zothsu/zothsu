@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **zothsu/zothsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 
-<h2> Hi, I'm Zoe Sullivan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<iframe align='right' src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="230"frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<h2> Hi there, I'm Zoe Sullivan!</h2>
+<iframe align='right' src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="230"></iframe>
 <p><em>Freelance Web Developer</em></p>
 
 
