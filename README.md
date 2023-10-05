@@ -26,7 +26,7 @@
 export const zoe = () => {
   const basic = {
     pronouns: "she" | "they",
-    skills = { 'Communication', 'Creative problem solving' 'Cool head in hot situations' },
+    skills = { 'Communication', 'Creative problem solving', 'Cool head in hot situations'},
     availableForHire: true
   };
 
