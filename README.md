@@ -26,14 +26,14 @@
 export const zoe = () => {
   const basic = {
     pronouns: "she" | "they",
-    skills = { '' },
+    skills = { 'Communication', 'Creative problem solving' 'Cool head in hot situations' },
     availableForHire: true
   };
 
   const tech = {
     os: [Debian, Ubuntu, mac],
     languagesKnown: [HTML, CSS, JavaScript, YAML, TOML, Markdown, Bash],
-    technologiesUsed: [Git, GitHub, Linux, Node, Docker, AWS, TailwindCSS, Wordpress, Netlify],
+    technologiesUsed: [Git, GitHub, Linux, Node, Docker, AWS, TailwindCSS, Wordpress, Netlify, Epic],
     techCommunities : {
                         member: "The Mycelium Network",
                         futureMentor: "PDXWIT"
