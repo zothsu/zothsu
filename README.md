@@ -22,16 +22,25 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const zoe = {
-  pronouns: "she" | "they",
-  code: [HTML, CSS, JavaScript, Typescript ],
-  tools: [Bash, Node, Docker],
-  techCommunities: {
-                        member: "theMyceliumNetwork",
+```
+export const zoe = () => {
+  const basic = {
+    pronouns: "she" | "they",
+    skills = { '' },
+    available for hire: true
+  };
+
+  const tech = {
+    os: [Debian, Ubuntu, mac]
+    languagesKnown: [HTML, CSS, JavaScript, YAML, TOML, Markdown, Bash],
+    technologiesUsed: [Git, GitHub, Linux, Node, Docker, AWS, TailwindCSS, Wordpress, Netlify],
+    techCommunities: {
+                        member: "The Mycelium Network",
                         futureMentor: "PDXWIT"
                       }
+    };
+  return {basic, tech};
+}
 }
 ```
 
----
