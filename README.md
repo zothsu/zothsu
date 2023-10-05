@@ -31,7 +31,7 @@ export const zoe = () => {
   };
 
   const tech = {
-    os: [Debian, Ubuntu, mac],
+    os: [Debian, Mac']
     languagesKnown: [HTML, CSS, JavaScript, YAML, TOML, Markdown, Bash],
     technologiesUsed: [Git, GitHub, Linux, Node, Docker, AWS, TailwindCSS, Wordpress, Netlify, Epic],
     techCommunities : {
