@@ -1,6 +1,7 @@
 
 <!-- **zothsu/zothsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<h2> Hi there, I'm Zoe Sullivan!</h2>
+<h2> Hello, I'm Zoe,<br/>
+  Zoe Sullivan!</h2>
 <img align='right' src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif'>
 </p>
 
@@ -13,9 +14,8 @@
 
 - 🔭 I’m currently working on ... nextgenerationdoulas.org
 - 🌱 I’m currently learning ... React
-- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ... Project Management
-- 💬 Ask me about ... How to keep your kitchen knives sharp
+- 💬 Ask me about ... How to keep your kitchen knives sharp and home improvement topics
 
   
 ---
@@ -31,7 +31,7 @@ export const zoe = () => {
   };
 
   const tech = {
-    os: [Debian, Mac']
+    os: ['Debian', 'Mac'],
     languagesKnown: [HTML, CSS, JavaScript, YAML, TOML, Markdown, Bash],
     technologiesUsed: [Git, GitHub, Linux, Node, Docker, AWS, TailwindCSS, Wordpress, Netlify, Epic],
     techCommunities : {
