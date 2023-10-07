@@ -4,7 +4,7 @@
 <img align='right' src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif'>
 </p>
 
-<p><em>Freelance Web Developer</em></p>
+<p><em>Zoe Sullivan - Freelance Web Developer</em></p>
 
 
 [![Linkedin: #](https://img.shields.io/badge/-zothsu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zothsu/)](https://www.linkedin.com/in/zoetsullivan/)
