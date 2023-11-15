@@ -31,8 +31,8 @@ export const zoe = () => {
 
   const tech = {
     os: ['Debian', 'Mac'],
-    languagesKnown: [HTML, CSS, JavaScript, YAML, TOML, Markdown, Bash],
-    technologiesUsed: [Git, GitHub, Linux, Node, Docker, AWS, TailwindCSS, Wordpress, Netlify, Epic],
+    languagesKnown: [JavaScript, YAML, TOML, Markdown, Bash],
+    technologiesUsed: [HTML5, CSS, Git, GitHub, Linux, Node, Docker, AWS, TailwindCSS, Wordpress, Netlify, Epic],
     techCommunities : {
                         member: "The Mycelium Network",
                         futureMentor: "PDXWIT"
