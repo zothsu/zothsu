@@ -1,6 +1,9 @@
 
-<!-- **zothsu/zothsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<h2>Greetings from Zoe's GitHub page!</h2>
+<!-- 
+**zothsu/zothsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+-->
+
+<h1>Greetings from Zoe's GitHub page!</h1>
 <img align='right' src='https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif'>
 </p>
 
@@ -19,7 +22,7 @@
   
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+###  A little more about me...  
 
 ```js
 export const zoe = () => {
