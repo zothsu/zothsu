@@ -26,13 +26,13 @@
 
 ```js
 export const zoe = () => {
-  const basic = {
+  let basic = {
     pronouns: "she" | "they",
     skills = { 'Communication', 'Creative problem solving', 'Cool head in hot situations'},
     availableForHire: true
   };
 
-  const tech = {
+  let tech = {
     os: ['Debian', 'Mac'],
     languagesKnown: [JavaScript, YAML, TOML, Markdown, Bash],
     technologiesUsed: [HTML5, CSS, Git, GitHub, Linux, Node, Docker, AWS, TailwindCSS, Wordpress, Netlify, Epic],
