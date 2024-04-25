@@ -40,7 +40,7 @@ export const zoe = () => {
     os: ['Debian', 'Ubuntu', 'Mac'],
     versionControl: 'Git',
     languages: ['HTML5', 'CSS3', 'JavaScript', 'Markdown', 'YAML', 'TOML', 'Python', 'Shell Script', 'Lua'],
-    frameworksPlatformsLibraries: ['Bootstrap','Django','ExpressJS','Node.JS','Nodemon','NPM','React','','',],
+    platformsLibraries: ['Django','ExpressJS','Node.JS','Nodemon','NPM','React'],
     database: ['MYSQL', 'MongoDB', 'MariaDB'],
     hosting: ['GH Pages', 'Heroku', 'Netlify',],
     designPlanning: ['Canva', 'Figma', 'Adobe Creative Cloud', 'Gimp', 'InkScape', 'Trello'],
