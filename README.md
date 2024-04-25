@@ -33,6 +33,7 @@ export zoe = () => {
     techCommunities : {
       member: "The Mycelium Network",
       member: "Systers",
+      member: "Out in Tech"
       ally: "Baddies in Tech"
     };
   };
