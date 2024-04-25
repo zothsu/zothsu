@@ -30,12 +30,7 @@ const zoe = () => {
     pronouns: "she" || "they",
     availableForHire: true,
     openSourceContributor: true,
-    techCommunities : {
-      member: "The Mycelium Network",
-      member: "Systers",
-      member: "Out in Tech",
-      ally: "Baddies in Tech"
-    };
+    techCommunities: ["The Mycelium Network", "Systers", "Baddies in Tech"]
   };
 
   const knowledge = {
@@ -43,15 +38,16 @@ const zoe = () => {
     os: ['Debian', 'Ubuntu', 'Mac'],
     versionControl: 'Git',
     languages: ['HTML5', 'CSS3', 'JavaScript', 'Markdown', 'YAML', 'TOML', 'Python', 'Shell Script', 'Lua'],
-    platformsLibraries: ['Django','ExpressJS','Node.JS','Nodemon','NPM','React'],
+    platformsLibraries: ['Django', 'ExpressJS', 'Node.JS', 'Nodemon', 'NPM', 'React'],
     database: ['MYSQL', 'MongoDB', 'MariaDB'],
-    hosting: ['GH Pages', 'Heroku', 'Netlify',],
+    hosting: ['GH Pages', 'Heroku', 'Netlify'],
     designPlanning: ['Canva', 'Figma', 'Adobe Creative Cloud', 'Gimp', 'InkScape', 'Trello'],
-    technologiesUsed: ['GitHub', 'AWS', 'Wordpress', 'Epic EMR'],
+    technologiesUsed: ['GitHub', 'AWS', 'Wordpress', 'Epic EMR']
   };
 
-  return {basic, knowledge};
+  return { basic, knowledge };
 }
+
 ```
 <br/>
 
