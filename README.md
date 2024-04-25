@@ -25,8 +25,8 @@
 ###  Zoe, just the TLDR version..  
 
 ```js
-export zoe = () => {
-  let basic = {
+const zoe = () => {
+  const basic = {
     pronouns: "she" || "they",
     availableForHire: true,
     openSourceContributor: true,
@@ -38,7 +38,7 @@ export zoe = () => {
     };
   };
 
-  let knowledge = {
+  const knowledge = {
     skills: ['Communication', 'Creative problem solving', 'Cool head in hot situations'],
     os: ['Debian', 'Ubuntu', 'Mac'],
     versionControl: 'Git',
