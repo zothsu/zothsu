@@ -22,17 +22,19 @@
 
 ---
 
-###  A little more about me...  
+###  Zoe, just the TLDR version..  
 
 ```js
-export const zoe = () => {
+export zoe = () => {
   let basic = {
-    pronouns: "she" | "they",
+    pronouns: "she" || "they",
     availableForHire: true,
+    openSourceContributor: true,
     techCommunities : {
-                        member: "The Mycelium Network",
-                        futureMentor: "PDXWIT"
-                      };
+      member: "The Mycelium Network",
+      member: "Systers",
+      ally: "Baddies in Tech"
+    };
   };
 
   let knowledge = {
@@ -44,7 +46,7 @@ export const zoe = () => {
     database: ['MYSQL', 'MongoDB', 'MariaDB'],
     hosting: ['GH Pages', 'Heroku', 'Netlify',],
     designPlanning: ['Canva', 'Figma', 'Adobe Creative Cloud', 'Gimp', 'InkScape', 'Trello'],
-    technologiesUsed: ['GitHub', 'Docker', 'AWS', 'Wordpress', 'Epic EMR'],
+    technologiesUsed: ['GitHub', 'AWS', 'Wordpress', 'Epic EMR'],
   };
 
   return {basic, knowledge};
