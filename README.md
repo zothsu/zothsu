@@ -52,6 +52,10 @@ export zoe = () => {
   return {basic, knowledge};
 }
 ```
+<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zothsu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  ~  ![](https://github-readme-stats.vercel.app/api?username=zothsu&theme=dark&hide_border=false&include_all_commits=false&count_private=false) 
+<img align='center' src='https://github-readme-stats.vercel.app/api?username=zothsu&theme=dark&hide_border=false&include_all_commits=false&count_private=false'>
+
+
+<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=zothsu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact'>
 
