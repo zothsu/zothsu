@@ -1,4 +1,3 @@
-
 <!-- 
 **zothsu/zothsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 -->
@@ -14,8 +13,8 @@
 [![GitHub zothsu](https://img.shields.io/github/followers/zothsu?label=follow&style=social)](https://github.com/zothsu)
 
 
-- 🔭 I’m currently working on ... nextgenerationdoulas.org
-- 🌱 I’m currently learning ... React
+- 🔭 I’m currently working on ...A group project, a [Photo Sharing Application](https://github.com/tomit4/django_with_postgres) utilizing Django with a Postgress Database
+- 🌱 I’m currently learning ... The LAMP stack
 - 🤔 I’m looking for help with ... Project Management
 - 💬 Ask me about ... How to keep your kitchen knives sharp and home improvement topics
 
