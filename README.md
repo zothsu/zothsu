@@ -43,7 +43,7 @@ export const zoe = () => {
     frameworksPlatformsLibraries: ['Bootstrap','Django','ExpressJS','Node.JS','Nodemon','NPM','React','','',],
     database: ['MYSQL', 'MongoDB', 'MariaDB'],
     hosting: ['GH Pages', 'Heroku', 'Netlify',],
-    designPlanning: ['Canva', 'Figma', 'Adobe Creative Cloud', 'Gimp', 'InkScape', 'Trello']
+    designPlanning: ['Canva', 'Figma', 'Adobe Creative Cloud', 'Gimp', 'InkScape', 'Trello'],
     technologiesUsed: ['GitHub', 'Docker', 'AWS', 'Wordpress', 'Epic EMR'],
   };
 
