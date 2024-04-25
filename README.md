@@ -14,7 +14,7 @@
 
 
 - 🔭 I’m currently working on ...A group project, a [Photo Sharing Application](https://github.com/tomit4/django_with_postgres) utilizing Django with a Postgress Database
-- 🌱 I’m currently learning ... The LAMP stack
+- 🌱 I’m currently learning ... DevOps Principles 
 - 🤔 I’m looking for help with ... Project Management
 - 💬 Ask me about ... How to keep your kitchen knives sharp and home improvement topics
 
@@ -27,20 +27,30 @@
 export const zoe = () => {
   let basic = {
     pronouns: "she" | "they",
-    skills = { 'Communication', 'Creative problem solving', 'Cool head in hot situations'},
-    availableForHire: true
-  };
-
-  let tech = {
-    os: ['Debian', 'Mac'],
-    languagesKnown: [JavaScript, YAML, TOML, Markdown, Bash],
-    technologiesUsed: [HTML5, CSS, Git, GitHub, Linux, Node, Docker, AWS, TailwindCSS, Wordpress, Netlify, Epic],
+    availableForHire: true,
     techCommunities : {
                         member: "The Mycelium Network",
                         futureMentor: "PDXWIT"
                       };
-    };
-  return {basic, tech};
+  };
+
+  let knowledge = {
+    skills: ['Communication', 'Creative problem solving', 'Cool head in hot situations'],
+    os: ['Debian', 'Ubuntu', 'Mac'],
+    versionControl: 'Git'
+    languages: ['HTML5', 'CSS3', 'JavaScript', 'Markdown', 'YAML', 'TOML', 'Python', 'Shell Script', 'Lua'],
+    frameworksPlatformsLibraries: ['Bootstrap','Django','ExpressJS','Node.JS','Nodemon','NPM','React','','',],
+    database: ['MYSQL', 'MongoDB', 'MariaDB'],
+    hosting: ['GH Pages', 'Heroku', 'Netlify',],
+    designPlanning: ['Canva', 'Figma', 'Adobe Creative Cloud', 'Gimp', 'InkScape', 'Trello']
+    technologiesUsed: ['GitHub', 'Docker', 'AWS', 'Wordpress', 'Epic EMR'],
+  };
+
+  return {basic, knowledge};
 }
 ```
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zothsu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zothsu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
