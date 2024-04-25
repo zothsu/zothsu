@@ -19,7 +19,7 @@
 - 💬 Ask me about ... How to keep your kitchen knives sharp and home improvement topics
 
  <br/> 
- 
+
 ---
 
 ###  A little more about me...  
@@ -38,7 +38,7 @@ export const zoe = () => {
   let knowledge = {
     skills: ['Communication', 'Creative problem solving', 'Cool head in hot situations'],
     os: ['Debian', 'Ubuntu', 'Mac'],
-    versionControl: 'Git'
+    versionControl: 'Git',
     languages: ['HTML5', 'CSS3', 'JavaScript', 'Markdown', 'YAML', 'TOML', 'Python', 'Shell Script', 'Lua'],
     frameworksPlatformsLibraries: ['Bootstrap','Django','ExpressJS','Node.JS','Nodemon','NPM','React','','',],
     database: ['MYSQL', 'MongoDB', 'MariaDB'],
