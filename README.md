@@ -13,10 +13,10 @@
 [![GitHub zothsu](https://img.shields.io/github/followers/zothsu?label=follow&style=social)](https://github.com/zothsu)
 
 
-- 🔭 I’m currently working on ...A group project, a [Photo Sharing Application](https://github.com/tomit4/django_with_postgres) utilizing Django with a Postgress Database
-- 🌱 I’m currently learning ... DevOps Principles 
-- 🤔 I’m looking for help with ... Project Management
-- 💬 Ask me about ... How to keep your kitchen knives sharp and home improvement topics
+- 🔭 I’m currently working on ... the website for [Emily Young](https://github.com/zothsu/emilieYoung)
+- 🌱 I’m currently learning ... DevOps Principles
+- 🤔 I’m curious about ... Docker Containers
+- 💬 Ask me about ... Semantic HTML
 
  <br/> 
 
