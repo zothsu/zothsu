@@ -13,7 +13,7 @@
 [![GitHub zothsu](https://img.shields.io/github/followers/zothsu?label=follow&style=social)](https://github.com/zothsu)
 
 
-- 🔭 I’m currently working on ... the website for [Emily Young](https://github.com/zothsu/emilieYoung)
+- 🔭 I’m currently working on ... a website for [Emily Young](https://github.com/zothsu/emilieYoung)
 - 🌱 I’m currently learning ... DevOps Principles
 - 🤔 I’m curious about ... Docker Containers
 - 💬 Ask me about ... Semantic HTML
