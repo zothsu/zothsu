@@ -2,13 +2,11 @@
 **zothsu/zothsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 -->
 
-# Z's GitHub Repositories
-
-![Lady sitting in the dark, cross legged in front of her laptop](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+# GitHub Repositories by Z
 
 [![zthedev.com](https://img.shields.io/badge/-Zthedev.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.zthedev.com/)
 
-[![dev.to](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white")](https://img.shields.io/badge/DEV-%230A0A0A.svg)
+![Lady sitting in the dark, cross legged in front of her laptop](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 ---
 
