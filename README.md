@@ -28,9 +28,7 @@ const z = () => {
     ],
     os: ["Debian", "Ubuntu", "Mac"],
     versionControl: "Git",
-    languages: ["HTML5", "CSS3", "JavaScript", "Markdown", "YAML", "TOML", "Python", "Shell Script", "Lua"],
-    platformsLibraries: ["Django", "ExpressJS", "Node.js", "Nodemon", "NPM", "React"],
-    database: ["MySQL", "MongoDB", "MariaDB"]
+    favoriteLanguages: ["HTML5", "CSS3", "JavaScript", "Markdown", "YAML", "TOML", "Python", "Bash", "Lua"],
   };
 
   return { basic, knowledge };
