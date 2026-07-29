@@ -6,8 +6,9 @@
 
 ![Lady sitting in the dark, cross legged in front of her laptop](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/z/)
 [![zthedev.com](https://img.shields.io/badge/-Zthedev.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.zthedev.com/)
+
+[![dev.to](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white")](https://img.shields.io/badge/DEV-%230A0A0A.svg)
 
 ---
 
